@@ -7,3 +7,6 @@ __pycache__/
 data/raw/
 *.pt
 *.bin
+qdrant_storage/
+mlflow.db
+mlruns/
